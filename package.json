@@ -1,0 +1,14 @@
+{
+  "name": "Ammar Worldwide Web-Design - Startup and Technology Website HTML5 Template",
+  "version": "1.0.1",
+  "description": "Ammar Worldwide Web-Design - Startup and Technology Website HTML5 Template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-sass assets/scss/main.scss style.css -w"
+  },
+  "author": "Insomniacafe.org",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
