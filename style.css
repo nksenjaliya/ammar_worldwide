@@ -2195,7 +2195,7 @@ input[type="number"] {
 
 .hero__vector img:nth-child(2) {
   position: absolute;
-  right: 15%;
+  right: 3%;
   animation: roundAnim 10s ease-in infinite;
 }
 
@@ -6812,9 +6812,9 @@ input[type="number"] {
   background: var(--style-two);
 }
 
-.style-three {
+/* .style-three {
   background: var(--style-three);
-}
+} */
 
 .section__title__three {
   display: flex;
